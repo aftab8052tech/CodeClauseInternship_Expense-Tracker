@@ -5,4 +5,7 @@
     <string name="sdsf">sdsf</string>
     <string name="refresh_amount">Refresh amount</string>
     <string name="rs">Rs.</string>
+    <string name="title_activity_splash">splashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

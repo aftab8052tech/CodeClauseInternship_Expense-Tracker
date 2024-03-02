@@ -95,7 +95,7 @@
                         android:layout_height="wrap_content"
                         android:textSize="65sp"
                         android:textColor="#fff"
-                        android:text="Expensed."
+                        android:text="Expensed"
                         android:fontFamily="@font/qanelas_soft_bold"
                         android:layout_centerVertical="true"/>
 
