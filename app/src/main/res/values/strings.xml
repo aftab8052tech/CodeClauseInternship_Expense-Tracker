@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Expensed</string>
+    <string name="app_name">ExpenseTracker</string>
     <string name="welcome">Welcome</string>
     <string name="total_amount_used_this_month">Total Amount used this month:</string>
     <string name="sdsf">sdsf</string>
